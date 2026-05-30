@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Balaji+R+%F0%9F%91%8B;Full-Stack+MERN+Developer;AI+%26+Data+Science+Student;Building+Real-World+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Balaji+R+%F0%9F%91%8B;Full-Stack+MERN+Developer;AI+%26+Data+Science+Student;Building+Real-World+Web+Apps)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Balaji+R+%F0%9F%91%8B;Full-Stack+MERN+Developer;AI+%26+Data+Science+Student;Building+Real-World+Web+Apps)
 
 <br/>
 
@@ -21,7 +21,7 @@
 ```javascript
 const balaji = {
   name        : "Balaji R",
-  location    : "Kallakurichi, Tamil Nadu, India 📍",
+  location    : "Kallakurichi, Tamil Nadu, India",
   degree      : "B.Tech — AI & Data Science (2026)",
   college     : "Muthayammal Engineering College, Rasipuram",
 
@@ -35,9 +35,9 @@ const balaji = {
     "Cloud Fundamentals (IoT & Edge ML)",
   ],
 
-  funFact     : "I built a Face Attendance System that never forgets a face 😄",
+  funFact     : "I built a Face Attendance System that never forgets a face!",
 
-  motto       : () => "Build. Break. Learn. Repeat. 🚀",
+  motto       : () => "Build. Break. Learn. Repeat.",
 };
 ```
 
@@ -67,7 +67,7 @@ const balaji = {
 
 **Cloud & Certifications**
 
-![Cloud](https://img.shields.io/badge/Cloud%20%26%20IoT-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloud IoT](https://img.shields.io/badge/Cloud%20%26%20IoT-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Edge ML](https://img.shields.io/badge/Edge%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-6DB33F?style=flat-square&logo=apachekafka&logoColor=white)
 
@@ -121,32 +121,36 @@ const balaji = {
 ## 💼 Work Experience
 
 <details>
-  <summary><b>🏢 MERN Stack Intern — Salem, Tamil Nadu &nbsp;|&nbsp; Mar 2025 – Present</b></summary>
-  <br/>
+<summary><b>🏢 MERN Stack Intern — Salem, Tamil Nadu &nbsp;|&nbsp; Mar 2025 – Present</b></summary>
+<br/>
 
-  > ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  > ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  > ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  > ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
 
-  - 🔨 Undergoing **hands-on training** in full-stack web application development using the MERN stack
-  - ⚛️ Building dynamic front-end interfaces with **React.js Hooks & State Management**
-  - 🔗 Gaining practical experience integrating **MongoDB, Express.js, React.js, and Node.js** end-to-end
-  - 🚀 Working on real-time projects that bridge academic knowledge with **industry-grade development practices**
+- 🔨 Undergoing **hands-on training** in full-stack web application development using the MERN stack
+- ⚛️ Building dynamic front-end interfaces with **React.js Hooks & State Management**
+- 🔗 Gaining practical experience integrating **MongoDB, Express.js, React.js, and Node.js** end-to-end
+- 🚀 Working on real-time projects bridging academic knowledge with **industry-grade development practices**
 
 </details>
 
 <details>
-  <summary><b>🎓 YBI Foundation — AI/ML with Data Science Intern &nbsp;|&nbsp; 1 Month</b></summary>
-  <br/>
+<summary><b>🎓 YBI Foundation — AI/ML with Data Science Intern &nbsp;|&nbsp; 1 Month</b></summary>
+<br/>
 
-  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  > ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  > ![ML](https://img.shields.io/badge/Machine%20Learning-0194E2?style=flat-square&logo=scikitlearn&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0194E2?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</p>
 
-  - 🤖 Completed **AI/ML with Data Science** internship through YBI Foundation
-  - 📊 Gained practical exposure to **data preprocessing, model building, and evaluation**
-  - 🎯 Earned a **Certificate of Completion** recognising hands-on project work in AI/ML
+- 🤖 Completed **AI/ML with Data Science** internship through YBI Foundation
+- 📊 Gained practical exposure to **data preprocessing, model building, and evaluation**
+- 🎯 Earned a **Certificate of Completion** recognising hands-on project work in AI/ML
 
 </details>
 
@@ -157,10 +161,10 @@ const balaji = {
 <div align="center">
 
 | Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| **[🎭 Face Attendance System](https://github.com/balaji-mernstack)** | Python · OpenCV · Facial Recognition | ✅ Contactless attendance automation · 📉 Reduced attendance fraud · 🏫 Applicable to schools, offices & institutions |
-| **[🌐 MERN Stack Web App](https://github.com/balaji-mernstack)** | MongoDB · Express.js · React.js · Node.js | ⚛️ Dynamic front-end with React Hooks · 🔗 Full REST API integration · 📱 Responsive UI/UX design |
-| **[📊 Excel Dashboard](https://github.com/balaji-mernstack)** | Excel · Data Visualisation · Dashboard Design | 📈 Interactive data dashboards · 🧩 Completed at Novitech Online Workshop · 📋 Clean analytical UI |
+|:--------|:------|:-----------|
+| **🎭 Face Attendance System** | Python · OpenCV · Facial Recognition | Contactless attendance automation · Reduced attendance fraud · Applicable to schools, offices & institutions |
+| **🌐 MERN Stack Web App** | MongoDB · Express.js · React.js · Node.js | Dynamic front-end with React Hooks · Full REST API integration · Responsive UI/UX design |
+| **📊 Excel Dashboard** | Excel · Data Visualisation | Interactive dashboards · Completed at Novitech Online Workshop |
 
 </div>
 
@@ -170,14 +174,14 @@ const balaji = {
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
-|:---:|:-----------:|:-------:|
-| 🏆 | **Hack INDIA Hackathon** | Participated at Muthayammal Engineering College — competed in a national-level hackathon |
-| 🎓 | **NPTEL — Distributed Systems** | Scored **61%** — Government-certified course completion |
-| ☁️ | **NPTEL — Cloud, IoT & Edge ML** | Scored **69%** — Foundations of next-gen tech stack |
+| | Achievement | Details |
+|:---:|:------------|:--------|
+| 🏆 | **Hack INDIA Hackathon** | Participated at Muthayammal Engineering College |
+| 🎓 | **NPTEL — Distributed Systems** | Scored **61%** — Government-certified course |
+| ☁️ | **NPTEL — Cloud, IoT & Edge ML** | Scored **69%** — Foundations of next-gen tech |
 | 🤖 | **YBI Foundation AI/ML Internship** | 1-month certified internship in AI & Data Science |
-| 🏭 | **IR 4.0 Technologies Certificate** | Certificate of Achievement in Industry Revolution 4.0 technologies |
-| 🛠️ | **Workshop — AAA College of Engineering, Sivakasi** | Hands-on technical workshop attendance |
+| 🏭 | **IR 4.0 Technologies Certificate** | Certificate of Achievement |
+| 🛠️ | **Workshop — AAA College of Engineering, Sivakasi** | Hands-on technical workshop |
 | 📊 | **Excel Dashboard Workshop** | Completed online at Novitech, Coimbatore |
 
 </div>
@@ -189,10 +193,10 @@ const balaji = {
 <div align="center">
 
 | Degree / Level | Institution | Year | Score |
-|:--------------:|:-----------:|:----:|:-----:|
-| 🎓 B.Tech — Artificial Intelligence & Data Science | Muthayammal Engineering College, Rasipuram | 2022 – 2026 | **CGPA: 7.5** |
-| 📘 HSC (Class XII) | Tagore Matriculation Higher Secondary School, Deviyakurichi | 2022 | **70%** |
-| 📗 SSLC (Class X) | Tagore Matriculation Higher Secondary School, Deviyakurichi | 2020 | **82%** |
+|:---------------|:------------|:----:|:-----:|
+| 🎓 B.Tech — AI & Data Science | Muthayammal Engineering College, Rasipuram | 2022 – 2026 | **CGPA: 7.5** |
+| 📘 HSC (Class XII) | Tagore Matriculation HSS, Deviyakurichi | 2022 | **70%** |
+| 📗 SSLC (Class X) | Tagore Matriculation HSS, Deviyakurichi | 2020 | **82%** |
 
 </div>
 
@@ -201,11 +205,11 @@ const balaji = {
 ## 🌱 Currently Learning
 
 ```
-🧱 MERN Stack Advanced     → React Context API · Redux · JWT Auth · REST APIs
-☁️  Cloud & DevOps         → AWS Basics · Docker · CI/CD Pipelines
-🤖 AI / ML Concepts        → Model Training · Data Preprocessing · scikit-learn
-📐 System Design            → Scalable Architecture · Database Optimisation
-🔐 Web Security             → OWASP Top 10 · Authentication Flows
+MERN Stack Advanced  -->  React Context API | Redux | JWT Auth | REST APIs
+Cloud & DevOps       -->  AWS Basics | Docker | CI/CD Pipelines
+AI / ML Concepts     -->  Model Training | Data Preprocessing | scikit-learn
+System Design        -->  Scalable Architecture | Database Optimisation
+Web Security         -->  OWASP Top 10 | Authentication Flows
 ```
 
 ---
@@ -229,3 +233,4 @@ const balaji = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
